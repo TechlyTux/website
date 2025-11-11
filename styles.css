@@ -8,7 +8,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #555555;
-  display: flex;
+  display: block;
   position: sticky;
   top: 0;
   width: 100%;
@@ -20,7 +20,7 @@ ul li {
 
 ul li a {
   display: block;
-  color: rgb(0, 162, 255);
+  color: rgb(0, 162, 162);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -30,4 +30,5 @@ ul li a:hover {
   background-color: #00aeff;
 
 }
+
 
